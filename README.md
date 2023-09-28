@@ -4,9 +4,9 @@
     <img align="right" alt="Download" height="75" src="https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/BloonsTD6%20Mod%20Helper/Resources/DownloadBtn.png">
 </a>
 
-<h1 align="center">Lego Factory</h1>
+<h1 align="center">9 Path Dartling</h1>
 
-This mod add the lego factory
+This mod add 6 unique path to the dartling gunner making a 9 path tower
 
 <h1 aling="left"><img alt="GitHub all releases" height="25" src="https://img.shields.io/github/downloads/Mattcy1/9pathDartling/total?label=Total%20Dowloads"></h1>
 
