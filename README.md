@@ -6,7 +6,7 @@
 
 <h1 align="center">9 Path Dartling</h1>
 
-This mod add 6 unique path to the dartling gunner making a 9 path tower
+This mod add 6 unique path to the dartling gunner making a 9 path tower Dont Forget path plus plus
 
 <h1 aling="left"><img alt="GitHub all releases" height="25" src="https://img.shields.io/github/downloads/Mattcy1/9pathDartling/total?label=Total%20Dowloads"></h1>
 
